@@ -1,8 +1,11 @@
+<p align="left">
+<a href="#"><img title="Made in Ivory Coast" src="https://img.shields.io/badge/MADE%20IN-IVORY COAST-green?colorA=%23ff0000&colorB=%23017e40"></a>
+</p>
+
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/Camericamerivoirevoire/camerivoire/master/CamerIvoire/CamerIvoire.png" width="500"/>
+  <img src="https://raw.githubusercontent.com/camerivoire/camerivoire/master/CamerIvoire/CamerIvoire.png" width="500"/>
   <img src="https://github-readme-stats.vercel.app/api?username=camerivoire&show_icons=true&theme=dark"/>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=camerivoire&layout=compact&theme=radical"/>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=camerivoire&repo=compiler&theme=radical"/>
 </p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
