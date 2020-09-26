@@ -17,7 +17,7 @@
 | YouTube       |[![YouTube](https://img.shields.io/badge/Youtube-%40CamerIvoire-red?logo=youtube)](https://www.youtube.com/c/FASTERAXEL?sub_confirmation=1)          | 
 | Facebook      |[![Facebook](https://img.shields.io/badge/Facebook-%40Faxel--19-teal?logo=Facebook)](https://www.facebook.com/camerivoire)                           |                                     
 | Instagram     |[![Instagram](https://img.shields.io/badge/Instagram-%40camerivoire-magenta?logo=instagram)](https://www.instagram.com/camerivoire)                  |                                    
-| Twitter       |[![Twitter](https://img.shields.io/badge/twitter-%40camerivoire-magenta?logo=twitter)](https://www.twitter.com/camerivoire)                          |                
+| Twitter       |[![Twitter](https://img.shields.io/badge/twitter-%40camerivoire-lightgreen?logo=twitter)](https://www.twitter.com/FaxelKrypton)                          |                
 | LICENSE       |[![LICENSE](https://img.shields.io/badge/License-MIT-lightgrey.svg?logo=License-MIT)](https://raw.githubusercontent.com/phantom-19/yutube/master/MIT)| 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
