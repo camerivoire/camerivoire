@@ -1,5 +1,5 @@
 <p align="left">
-<a href="#"><img title="Made in Ivory Coast" src="https://img.shields.io/badge/MADE%20IN-IVORY COAST-green?colorA=%23ff0000&colorB=%23017e40"></a>
+<a href="#"><img title="Made in Ivory Coast & Cameroon" src="https://img.shields.io/badge/Designed%20By Faxel and Krypton17-green?colorA=%23ff0000&colorB=%23017e40"></a>
 </p>
 
 <p align="center"> 
@@ -11,13 +11,13 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | Comptes       |                                                                      Liens                                                                          |  
 |:--------------|:----------------------------------------------------------------------------------------------------------------------------------------------------|
-| Github        |[![Github](https://img.shields.io/badge/Github-%40camerivoire-Orange?logo=github)](https://github.com/camerivoire)                                   |     
-| Telegram      |[![Telegram](https://img.shields.io/badge/Telegram-%40Termux&Linux-cyan?logo=telegram)](https://t.me/Linux_Tor)                                      | 
+| Github        |[![Github](https://img.shields.io/badge/Github-%40camerivoire-yellow?logo=github)](https://github.com/camerivoire)                                   |     
+| Telegram      |[![Telegram](https://img.shields.io/badge/Telegram-%40Termux&Linux-orange?logo=telegram)](https://t.me/Linux_Tor)                                      | 
 | Telegram      |[![Telegram](https://img.shields.io/badge/Telegram-%40Krypton17-cyan?logo=telegram)](https://t.me/Krypton17)                                         |                           
 | YouTube       |[![YouTube](https://img.shields.io/badge/Youtube-%40CamerIvoire-red?logo=youtube)](https://www.youtube.com/c/FASTERAXEL?sub_confirmation=1)          | 
 | Facebook      |[![Facebook](https://img.shields.io/badge/Facebook-%40Faxel--19-teal?logo=Facebook)](https://www.facebook.com/camerivoire)                           |                                     
 | Instagram     |[![Instagram](https://img.shields.io/badge/Instagram-%40camerivoire-magenta?logo=instagram)](https://www.instagram.com/camerivoire)                  |                                    
-| Twitter       |[![Twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/FaxelKrypton)                                  |                
+| Twitter       |[![Twitter](https://img.shields.io/badge/twitter-%40camerivoire-magenta?logo=twitter)](https://www.twitter.com/camerivoire)                          |                
 | LICENSE       |[![LICENSE](https://img.shields.io/badge/License-MIT-lightgrey.svg?logo=License-MIT)](https://raw.githubusercontent.com/phantom-19/yutube/master/MIT)| 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
