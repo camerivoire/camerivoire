@@ -1,5 +1,5 @@
 <p align="left">
-<a href="#"><img title="Made in Ivory Coast & Cameroon" src="https://img.shields.io/badge/Designed%20By Faxel and Krypton17-green?colorA=%23ff0000&colorB=%23017e40"></a>
+<a href="#"><img title="Made in Ivory Coast & Cameroon" src="https://img.shields.io/badge/Designed By-%20 Faxel & Krypton17-green?colorA=%23ff0000&colorB=%23017e40"></a>
 </p>
 
 <p align="center"> 
